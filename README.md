@@ -14,6 +14,7 @@ To get the most value out of the following, you should have a basic understandin
 * [Getting Started Guide](https://github.com/newrelic/newrelic-cli/blob/master/docs/GETTING_STARTED.md)
 * [Documentation](https://github.com/newrelic/newrelic-cli/blob/master/docs/cli/newrelic.md)
 * [Source Repo](https://github.com/newrelic/newrelic-cli)
+* [Nerd Days Presentation](docs/NewRelic-CLI-Wizardry.pdf)
 
 The CLI also has build-in help, simply run `newrelic help` to get more
 information.

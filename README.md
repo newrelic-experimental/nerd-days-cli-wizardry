@@ -45,3 +45,5 @@ export NEW_RELIC_REGION="US"   # or "EU"
 * [Lab 1](lab1/README.md): Profiles
 * [Lab 2](lab2/README.md): Entities
 * [Lab 3](lab3/README.md): NRQL
+* [Lab 4](lab4/README.md): NerdGraph
+

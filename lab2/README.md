@@ -45,7 +45,7 @@ $ newrelic entity search \
 ```bash
 # Replace the GUID below with a value from entity search
 $ newrelic entity tags get \
-   --guid MjUwODI1OXxBUE18QVBQTElDQVRJT058MjA0MjYxMzY4
+   --guid MTYwNjg2MnxBUE18QVBQTElDQVRJT058NDMxOTIyMTA
 ```
 
 

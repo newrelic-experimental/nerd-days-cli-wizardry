@@ -4,7 +4,7 @@
 
 To get the most value out of the following, you should have a basic understanding of shell scripting, and a New Relic account that you can test with.
 
-* [New Relic CLI](https://github.com/newrelic/newrelic-cli#installation) version 0.9.0 or later
+* [New Relic CLI](https://github.com/newrelic/newrelic-cli#installation) version 0.14.0 or later
 * New Relic Account
   * Application reporting to New Relic
 

@@ -15,8 +15,9 @@ different accounts / using different API keys.
    # Add a new Profile (not needed if you have one already)
    $ newrelic profile add \
      --name wizardry \
-     --apiKey $NEW_RELIC_API_KEY \
-     --region $NEW_RELIC_REGION
+     --apiKey ${NEW_RELIC_API_KEY} \
+     --region ${NEW_RELIC_REGION} \
+     --insightsInsertKey ${NEW_RELIC_INSIGHTS_INSERT_KEY}
    ```
 
 1. Set the new profile as your default

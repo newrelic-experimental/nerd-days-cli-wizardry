@@ -37,7 +37,11 @@ unset!
 
 ```bash
 export NEW_RELIC_API_KEY=
+export NEW_RELIC_ACCOUNT_ID=
 export NEW_RELIC_REGION="US"   # or "EU"
+
+# Optional
+export NEW_RELIC_INSIGHTS_INSERT_KEY=
 ```
 
 
